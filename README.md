@@ -6,5 +6,4 @@
 ## Selenium https://github.com/SeleniumHQ/selenium/
 
 
-![alt text](http://url/to/img.png)
-https://gyazo.com/5657fbe9c9f7108fbf56a2049251d100
+![alt text](https://github.com/richardmcameron/CyberCode-Online-Bot-GUI/blob/main/screencap.png?raw=true)
